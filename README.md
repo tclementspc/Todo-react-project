@@ -2,11 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Title and purpose
+
+Todo List
+
+This is a todo list where you can create tasks, mark them off when completed and delete them when you finish
+This project is used to help with understanding Javascript and React.
+
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
+
+## Credits
+
+This project was built with the help of developedbyEd, Code Spot and Ben Awad of Youtube
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
